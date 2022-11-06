@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @VeraBerger
+- 👀 I’m interested in computational astrophysics, stars that flare, and alternative data visualization methods
+- 🌱 I’m currently learning about Dynamic Time Warping and clustering analysis for time series
+- 💞️ I’m looking to collaborate on algorithm development and data sonification projects
+- 📫 Reach me at vera ..dot.. berger 815 ..at.. g mail

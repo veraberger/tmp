@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @VeraBerger
 - 👀 I’m interested in computational astrophysics, stars that flare, and alternative data visualization
-- 📫 Reach me at vera.luisa.berger at gmail
+- 📫 Reach me at vlb 36 at cam.ac.uk

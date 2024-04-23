@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @VeraBerger
-- 👀 I’m interested in computational astrophysics, stars that flare, and alternative data visualization
-- 📫 Reach me at vlb 36 at cam.ac.uk
+- Hi, I’m @VeraBerger
+- I’m interested in computational astrophysics, stellar flares and magnetic reconnection, and data visualization
+- Reach me at vlb 36 at cam.ac.uk
